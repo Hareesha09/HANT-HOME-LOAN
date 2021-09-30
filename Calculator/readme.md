@@ -1,2 +1,2 @@
-this component includes html and css required files
+this component includes html and css required files in folder
 
